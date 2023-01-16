@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class StackOnList<T> {
-
     private LinkedList<T> list;
     private int size;
 
